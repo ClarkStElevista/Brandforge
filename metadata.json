@@ -1,0 +1,5 @@
+{
+  "name": "BrandForge AI",
+  "description": "A high-end brand identity generator that creates comprehensive 'Brand Bibles' including logos, palettes, and font pairings using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
